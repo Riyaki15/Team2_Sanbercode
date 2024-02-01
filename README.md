@@ -1,2 +1,4 @@
 # Team2_Sanbercode
-Rizky Aulia Rakib
+Athia Suci Faqiha
+Indra  Martayunda
+Ridha
