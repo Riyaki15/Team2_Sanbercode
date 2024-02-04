@@ -1,7 +1,7 @@
 # Team2_Sanbercode
-test
+quiz 3
 
-Athia Suci Faqiha
+Athia Suci Faqiha (my account - edit account & edit address)
 Indra  Martayunda
 Ridha 
-Rizky Aulia Rakib
+Rizky Aulia Rakib (create an account & login)
