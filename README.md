@@ -1,8 +1,9 @@
 # Team2_Sanbercode
-quiz 3
+Quiz 3
 
-Athia Suci Faqiha (my account - edit account & edit address)
-Indra  Martayunda
-Ridha 
-Rizky Aulia Rakib (create an account & login)
+Anggota Kelompok : 
+1. Athia Suci Faqiha (my account - edit account & edit address)
+2. Indra  Martayunda
+3. Ridha 
+4. Rizky Aulia Rakib (create an account & login)
 
