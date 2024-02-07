@@ -1,4 +1,6 @@
+// import LoginPage from "../../../support/LoginPage"
 // import EditAddress from "../../../support/EditAddress"
+// const LoginData = require('../../../fixtures/LoginData.json')
 // const EditAddress = require('../../../fixtures/EditAddress.json')
 
 // describe('My Account Feature Tests', () => {

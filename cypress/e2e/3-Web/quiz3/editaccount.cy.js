@@ -14,7 +14,7 @@ describe('My Account Feature Tests', () => {
     cy.get(LoginPage.email).type(Cypress.env('email'))
     cy.get(LoginPage.pass).type(Cypress.env('pass'))
     cy.get(LoginPage.loginBtn).click()
-  })
+  });
 
   it('should edit account information', () => {
     // Your test steps for editing account information
@@ -35,5 +35,5 @@ describe('My Account Feature Tests', () => {
   it('Feature button change Password', () => {
     cy.visit('https://magento.softwaretestingboard.com/customer/account/')
     cy.get(EditAccount.changepwBtn).click()
-  })
+  });
 })
